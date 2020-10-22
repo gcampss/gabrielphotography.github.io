@@ -75,6 +75,11 @@ margin: 0px 6px;
 flex-grow: 1;
 }
 
+.card img {
+  border-radius: 4px;
+  box-shadow: 0 16px 36px rgba(0,0,0,0.2)
+}
+
 
 #footer {
 background: black;
